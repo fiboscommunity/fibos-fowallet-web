@@ -1,0 +1,264 @@
+{
+  "ios": {
+    "isUpdate": true,
+    "version": "4.4.13",
+    "uri": "",
+    "force": false,
+    "title": "提示",
+    "title_en": "Prompt",
+    "message": "发现新版本：v4.4.13，是否立即更新？\n1、修改价格的展示逻辑",
+    "message_en": "Version 4.4.13 Update\n1、Modify the display logic of price"
+  },
+  "android": {
+    "isUpdate": true,
+    "version": "4.4.13",
+    "uri": "",
+    "force": false,
+    "title": "提示",
+    "title_en": "Prompt",
+    "message": "发现新版本：v4.4.13，是否立即更新？\n1、修改价格的展示逻辑",
+    "message_en": "Version 4.4.13 Update\n1、Modify the display logic of price"
+  },
+  "version": [
+    {
+      "version": "4.4.13",
+      "content": "1、修改价格的展示逻辑",
+      "time": "2021.05.07",
+      "content_en": "1、Modify the display logic of price"
+    },
+    {
+      "version": "4.4.12",
+      "content": "1、修复了微信分享的用户体验",
+      "time": "2021.02.07",
+      "content_en": "1、Fixed the user experience of sharing to WeChat"
+    },
+    {
+      "version": "4.4.11",
+      "content": "1、优化了通证取价规则",
+      "time": "2021.01.29",
+      "content_en": "1、Optimized the pricing rules of the token"
+    },
+    {
+      "version": "4.4.10",
+      "content": "1、修复了部分问题*2、优化了部分用户体验",
+      "time": "2020.11.04",
+      "content_en": "1、Bugs fixed*2、Optimized some user experiences"
+    },
+    {
+      "version": "4.4.9.0",
+      "content": "1、新增支持 FO 的以太坊和 FIBOS 双链流通和跨链交易*2、优化了相关用户体验",
+      "time": "2020.08.19",
+      "content_en": "1、Support IBC transactions between FIBOS and Ethereum for FO token*2、Optimize  user experience"
+    },
+    {
+      "version": "4.4.8.0",
+      "content": "1、优化了添加通证的通证页面详情*2、优化了部分用户体验",
+      "time": "2020.08.07",
+      "content_en": "1、Optimized the details of the token page for adding tokens*2、Optimized some user experiences"
+    },
+    {
+      "version": "4.4.7.0",
+      "content": "1、优化了FOETH充值页面*2、优化了转账页面相关内容*3、优化了部分用户体验",
+      "time": "2020.06.16",
+      "content_en": "1、Optimized FOETH recharge page*2、Optimized some content of transfer page*3、Optimized some user experiences"
+    },
+    {
+      "version": "4.4.6.0",
+      "content": "1、优化了私钥变更相关内容*2、新增通证：FOUSDK*3、优化了部分用户体验内容",
+      "time": "2020.06.08",
+      "content_en": "1、Optimized some content of Change PrivateKey*2、New Token：FOUSDK*3、Optimize user experiences"
+    },
+    {
+      "version": "4.4.5.0",
+      "content": "1、优化了资讯模块相关内容",
+      "time": "2020.05.19",
+      "content_en": "1、Optimized some content of News"
+    },
+    {
+      "version": "4.4.4.0",
+      "content": "1、优化了部分用户体验内容",
+      "time": "2020.04.27",
+      "content_en": "1、Optimize user experiences"
+    },
+    {
+      "version": "4.4.3.0",
+      "content": "1、新增DAPP下载容器功能*2、优化了部分用户体验内容*3、bug修复",
+      "time": "2020.04.16",
+      "content_en": "1、New DAPP download container function*2、Optimize user experiences*3、Bug fixed"
+    },
+    {
+      "version": "4.4.2.0",
+      "content": "1、优化了部分用户体验内容*2、bug修复",
+      "time": "2020.03.01",
+      "content_en": "1、Optimize user experiences*2、Bug fixed"
+    },
+    {
+      "version": "4.4.1.0",
+      "content": "1、优化跨链流程*2、优化用户体验*3、修复已知问题",
+      "time": "2020.01.21",
+      "content_en": "1、Optimize cross-chain processes*2、Optimize the user experience*3、Fix Known Issues"
+    },
+    {
+      "version": "4.4.0.0",
+      "content": "1、新增跨链充值*2、兑换模块优化*3、bug修复",
+      "time": "2020.01.06",
+      "content_en": "1、New cross-chain recharge function*2、Exchange module optimization*3、Bug fixed"
+    },
+    {
+      "version": "4.3.9.0",
+      "content": "1、新增行情模块*2、优化一键解仓功能*3、优化提示升级功能*4、优化了部分用户体验内容",
+      "time": "2019.12.12",
+      "content_en": "1、New Market modle*2、Optimize the one-click unlock function*3、Optimization prompt upgrade function*4、Optimize user experiences"
+    },
+    {
+      "version": "4.3.8.0",
+      "content": "1、新增文章国际版本*2、优化DAPP详情*3、优化收款页面，可复制账号*4、bug修复",
+      "time": "2019.12.03",
+      "content_en": "1、New international version of article*2、Optimize DAPP details*3、Optimize the receive page*4、Bug fixed"
+    },
+    {
+      "version": "4.3.7.0",
+      "content": "1、生物识别支付应用场景优化*2、新增提交DAPP功能*3、私钥备份提示优化*4、付款二维码保存后样式优化*5、优化了部分用户体验内容*6、bug修复",
+      "time": "2019.11.27",
+      "content_en": "1、Optimize the application scenario of biometric payment*2、Support DAPP submission*3、Optimize the notification private key backup*4、Optimize payment QR code style"
+    },
+    {
+      "version": "4.3.6.0",
+      "content": "1、新增生物免密转账功能*2、导出Keystore 新增密码验证功能*3、新增DEX DAPP版本*4、优化了部分用户体验内容*5、bug修复",
+      "time": "2019.11.19",
+      "content_en": "1、Add bio-free transfer function*2、Add password verification function when operate export Keystore*3、Add DAPP version of DEX*4、Optimize user experiences*5、Bug fixed"
+    },
+    {
+      "version": "4.3.5.0",
+      "content": "1、新增DAPP容器自定义工具栏功能*2、钱包IOS版本下载免海外ID*3、优化了部分用户体验内容",
+      "time": "2019.11.08",
+      "content_en": "1、Add customize toolbox*2、General Account for FO Wallet IOS download*3、Optimize user experiences"
+    },
+    {
+      "version": "4.3.4.0",
+      "content": "1、钱包整体离线体验优化*2、bug修复",
+      "time": "2019.11.01",
+      "content_en": "1、Optimized offline experience of whole wallet*2、Bug fixed"
+    },
+    {
+      "version": "4.3.3.0",
+      "content": "1、新增一键解锁仓功能*2、优化了通证查询功能*3、优化了二维码扫描展示内容*4、优化了部分用户体验内容*5、bug修复",
+      "time": "2019.10.15",
+      "content_en": "1、New function of one-buttom unlocked*2、Optimized Token search performance*3、Optimized the display content of QR code scanning*4、Optimized user experience*5、Bug fixed"
+    },
+    {
+      "version": "4.3.2.0",
+      "content": "1、新增 Keystore 功能*2、优化了部分用户体验内容*3、bug修复",
+      "time": "2019.09.26",
+      "content_en": "1、New  Keystore function*2、Optimized some user experience content*3、Bug fixed"
+    },
+    {
+      "version": "4.3.1.0",
+      "content": "1、新增 ETH 去中心化跨链转账功能*2、优化了通证资产列表展示数据*3、优化了 uniswap 兑换功能的比率显示及提示文案",
+      "time": "2019.09.18",
+      "content_en": "1、Add decentralized cross-chain transfer function of ETH*2、Optimized data details of tokens in the token list*3、Optimized the ratio and notifications of the token exchange of Uniswap"
+    },
+    {
+      "version": "4.3.0.0",
+      "content": "1、新增通证 Uniswap 兑换功能*2、优化了部分用户体验内容*3、Bug修复",
+      "time": "2019.09.06",
+      "content_en": "1、New token uniswap exchange function*2、Optimized some user experience content*3、Bug fixed"
+    },
+    {
+      "version": "4.2.2.0",
+      "content": "1、Bug修复",
+      "time": "2019.08.28",
+      "content_en": "1、Bug fixed"
+    },
+    {
+      "version": "4.2.1.0",
+      "content": "1、Bug修复",
+      "time": "2019.08.19",
+      "content_en": "1、Bug fixed"
+    },
+    {
+      "version": "4.2.0.0",
+      "content": "1、Bug修复",
+      "time": "2019.08.14",
+      "content_en": "1、Bug fixed"
+    },
+    {
+      "version": "4.1.1.0",
+      "content": "1、Bug修复",
+      "time": "2019.08.05",
+      "content_en": "1、Bug fixed"
+    },
+    {
+      "version": "4.1.0.0",
+      "content": "1、新增消息推送功能*2、优化了部分用户体验内容*3、Bug修复",
+      "time": "2019.08.01",
+      "content_en": "1、New message push function*2、Optimized some user experience content*3、Bug fixed"
+    },
+    {
+      "version": "4.0.0.0",
+      "content": "1、FOX 支持*2、Bug修复",
+      "time": "2019.07.19",
+      "content_en": "1、FOX integration*2、Fixed some minor bugs"
+    },
+    {
+      "version": "3.9.0.0",
+      "content": "1、优化交易记录列表，新增交易记录详情页*2、优化了部分用户体验内容*3、bug修复",
+      "time": "2019.07.04",
+      "content_en": "1、Optimized transaction history list，and new transaction history details page*2、Optimized some user experience content*3、Bug fixed"
+    },
+    {
+      "version": "3.8.0.0",
+      "content": "1、新增节点选择功能*2、优化了部分内容的国际化问题*3、优化了通证交易的用户体验内容*4、bug修复",
+      "time": "2019.06.26",
+      "content_en": "1、New node selection function*2、Optimized the internationalization of some content*3、Optimized the user experience of token transaction*4、Bug fixed"
+    },
+    {
+      "version": "3.7.0.0",
+      "content": "1、新增修改私钥功能*2、优化了部分用户体验内容*3、bug修复",
+      "time": "2019.06.19",
+      "content_en": "1、New Change PrivateKey function*2、Optimized some user experience content*3、Bug fixed"
+    },
+    {
+      "version": "3.6.0.0",
+      "content": "1、DApp 打开速度优化*2、bug 修复",
+      "time": "2019.06.11",
+      "content_en": "1、Optimize Dapps' launch time*2、Bug fixed"
+    },
+    {
+      "version": "3.5.0.0",
+      "content": "1、FOUSDT详情页新增链上转账功能*2、访问DAPP免责提示优化*3、快讯排版设计优化*4、节点投票功能优化*5、启动页更新*6、优化其它部分功能",
+      "time": "2019.06.04",
+      "content_en": "1、FOUSDT details page added on the chain transfer function*2、Optimize Access DAPP disclaimer tips*3、Optimize the layout design of News*4、Optimize the Node voting function*5、Update the Startup page*6、Optimize other parts of the functionality"
+    },
+    {
+      "version": "3.4.0.0",
+      "content": "1、新增白名单功能，优化 DApp 使用体验*2、新增文章详情页*3、新增钱包账号排序功能*4、优化了部分用户体验内容*5、优化了整体的UI风格",
+      "time": "2019.05.28",
+      "content_en": "1、Whitelist feature for DApp users*2、Article detail pages for enhancing reading experience*3、Deliver account sorting for wallet management*4、Enhance user experience*5、Optimize UI design for the probable"
+    },
+    {
+      "version": "3.3.2.0",
+      "content": "修复了红包闪退的问题",
+      "time": "2019.05.17",
+      "content_en": "Fix crashes on sending lucky money"
+    },
+    {
+      "version": "3.3.1.0",
+      "content": "斐波 —— 发现无处不在的价值",
+      "time": "2019.05.17",
+      "content_en": "斐波 —— Discover Value Everywhere"
+    },
+    {
+      "version": "3.3.0.0",
+      "content": "1、优化资产页面，将系统工具从DAPP中分离显示*2、FO 通证显示实时最新价格*3、优化了Token 在首页的显示策略*4、优化DAPP页面，可为DAPP创建广告或设为优秀推荐*5、新增文章模块，可对文章进行分享*6、我的通证新增“增发”功能，优化界面*7、优化节点投票界面，新增节点详情页*8、优化资源管理界面*9、优化“关于我们”，新增 FO 钱包及FIBOS 团队的多个联系方式*10、优化其它部分功能*",
+      "time": "2019.05.15",
+      "content_en": "1、Optimize the asset page and separate the system tools from DAPP*2、FO token displays latest prices*3、Optimized Token display strategy on home page*4、Optimize the DAPP page，can create ads for DAPP or set as excellent recommendations*5、New article module, articles can be Shared*6、My token added 'additional' function, optimize the interface*7、Optimize the node voting interface and add a new node detail page*8、Optimize the resource management interface*9、Optimize 'About us' ，added multiple contact information of FO wallet and FIBOS team*10、Optimize other parts of the functionality"
+    },
+    {
+      "version": "3.2.0.0",
+      "content": "1、新增DAPP容器*2、新增资讯*3、'收款'支持Memo的设置，二维码扫描识别收款设置的Memo*4、我的DApps的“最近使用”显示最新的10条数据*5、节点投票列表显示所有注册节点*6、隐藏测试",
+      "time": "2019.04.23",
+      "content_en": "1、New DAPP container*2、The new information*3、'Receipt' supports the setting of Memo*4、Recent use displays the latest 10 pieces of data*5、The voting list shows all registered nodes"
+    }
+  ]
+}
